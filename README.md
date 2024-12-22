@@ -11,4 +11,4 @@ go run ./cmd/calc_service/
 
 ## Sample requests
 
-See tests/postman_collections/calculator.json
+See [postman collection](tests/postman_collections/calculator.json)
